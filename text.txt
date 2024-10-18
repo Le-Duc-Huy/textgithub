@@ -1,1 +1,2 @@
 jsfka
+them dong moi vao file text.txt
